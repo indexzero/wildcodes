@@ -1,0 +1,19 @@
+{
+  "name": "wildcodes",
+  "version": "0.0.0",
+  "description": "My solutions to http://www.trywildcard.com/challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/indexzero/wildcodes"
+  },
+  "author": "Charlie Robbins <charlie@nodejitsu.com>",
+  "license": "MIT",
+  "dependencies": {
+    "in-groups-of": "0.0.1",
+    "js-combinatorics": "~0.2.5"
+  }
+}
